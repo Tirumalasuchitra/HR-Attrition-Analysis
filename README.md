@@ -1,4 +1,4 @@
-**HR Attrition Analysis Project**
+## HR Attrition Analysis Project
 
 **Project Overview**
 
@@ -20,9 +20,10 @@ Tools Used
 Employee attrition is not driven by a single factor, but by the interaction of workload and dissatisfaction — employees working overtime with low job satisfaction show the highest attrition (~35–37%), making workload the most critical lever to reduce overall attrition across the organization
 
 
-**SQL Logic**
-<img width="1171" height="740" alt="monthlyincome-vs-jobrole" src="https://github.com/user-attachments/assets/cbdbe9e1-5626-4944-8c33-deaad3cde09e" />
-<img width="1207" height="592" alt="attritionrate-by-monthlyincome" src="https://github.com/user-attachments/assets/5e7357be-b8eb-46f0-a532-13421082b070" />
+
+## SQL Analysis Insights
+![Income vs Job Role](monthlyincome-vs-jobrole.png)
+![Attrition Rate](attritionrate-by-monthlyincome.png)
 
 
 
