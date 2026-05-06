@@ -18,3 +18,11 @@ Tools Used
 <img width="1175" height="668" alt="employee_sentiment" src="https://github.com/user-attachments/assets/2d71ee88-7575-4e7d-b2f4-014e1e11fd16" />
 <img width="1171" height="668" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/051edf9f-a28d-4ec0-b083-85b741e93525" />
 Employee attrition is not driven by a single factor, but by the interaction of workload and dissatisfaction — employees working overtime with low job satisfaction show the highest attrition (~35–37%), making workload the most critical lever to reduce overall attrition across the organization
+
+
+**SQL Logic**
+<img width="1171" height="740" alt="monthlyincome-vs-jobrole" src="https://github.com/user-attachments/assets/cbdbe9e1-5626-4944-8c33-deaad3cde09e" />
+<img width="1207" height="592" alt="attritionrate-by-monthlyincome" src="https://github.com/user-attachments/assets/5e7357be-b8eb-46f0-a532-13421082b070" />
+
+
+
