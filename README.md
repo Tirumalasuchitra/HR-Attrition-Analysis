@@ -1,14 +1,39 @@
-# HR Attrition Analysis: Identifying Key Turnover Drivers
+# HR Attrition Analysis: Identifying Employee Turnover Drivers
 
-This project leverages **SQL** and **Power BI** to analyze employee turnover. By processing raw HR data, I identified critical factors—such as overtime and job satisfaction—that contribute to attrition, providing actionable insights for retention strategies.
 
 ## Project Overview
-The objective was to move beyond basic headcounts to understand *why* employees leave. The project involved transforming a 35-column dataset into meaningful categories to visualize risk factors across different departments and roles.
+This project analyzes employee attrition using SQL and Power BI to understand why employees leave the company.
 
-## Technical Workflow
-*   **Data Ingestion & Cleaning (SQL):** Managed the end-to-end process of loading .csv data into MySQL, ensuring data integrity across 35 attributes.
-*   **Feature Engineering:** Utilized complex **CASE statements** to create income and tenure buckets, allowing for more granular analysis.
-*   **Visual Analytics:** Developed a Power BI dashboard to correlate work-life balance and compensation with attrition rates.
+The analysis focused on factors such as overtime, job satisfaction, monthly income, work-life balance, and job roles to identify high-risk employee segments.
+
+## Tools Used
+- SQL
+- Power BI
+- Excel
+
+## What I Worked On
+- Cleaned and processed HR employee data containing 35 attributes
+- Used SQL joins and CASE statements to create income and tenure buckets
+- Calculated attrition rates across departments, salary ranges, and job roles
+- Built interactive Power BI dashboards to visualize attrition patterns and workforce trends
+
+## Key Insights
+- Employees working overtime showed significantly higher attrition rates
+- Low job satisfaction combined with heavy workload created the highest turnover risk
+- Lower income bands experienced higher attrition compared to senior salary groups
+- Some job roles consistently showed higher employee turnover than others
+
+## Business Recommendations
+- Reduce excessive overtime in high-risk departments
+- Improve employee engagement initiatives for low-satisfaction teams
+- Review compensation strategies for lower income groups
+- Monitor attrition trends regularly through HR dashboards
+
+## Files Included
+- SQL analysis scripts
+- Power BI dashboard (.pbix)
+- Dashboard screenshots
+- README documentation
 
 ## Key SQL Insights
 Below are snapshots of the analysis performed directly in the database:
